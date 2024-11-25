@@ -26,7 +26,7 @@ Certifique-se de ter instalado:
 ### Passo 1: Clonar o repositório
 No local onde você deseja salvar o projeto, abra o terminal e execute o comando abaixo:
 ```bash
-git clone https://github.com/gomeshadriel/cartinhas-natal.git'
+git clone https://github.com/juanpabloflg/cartinhas-natal'
 ```
 ### Passo 2: Abrir o projeto
 Abra a pasta raiz do projeto na IDE de sua preferência (recomendamos o VS Code).
@@ -51,7 +51,7 @@ A página de apadrinhamento utiliza uma API para carregar as informações das c
 ### Passo 1: Clonar o repositório
 No local onde você deseja salvar o projeto, abra o terminal e execute o comando abaixo: (Certifique-se de que a API esteja em uma pasta separada da pasta raiz do projeto da interface (UI) para evitar conflitos.)
 ```bash
-git clone https://github.com/gomeshadriel/APIServer-Cartinhas-Natal.git'
+git clone https://github.com/juanpabloflg/APIServer-Cartinhas-Natal'
 ```
 ### Passo 2: Abrir o projeto
 Abra a pasta raiz do projeto na IDE de sua preferência (recomendamos o VS Code).
